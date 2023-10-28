@@ -24,5 +24,6 @@ class PostController extends Controller
     }
     public function createPost()
     {
+        gg
     }
 }
